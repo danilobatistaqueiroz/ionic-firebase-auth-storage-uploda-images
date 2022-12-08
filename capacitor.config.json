@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionfire",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
