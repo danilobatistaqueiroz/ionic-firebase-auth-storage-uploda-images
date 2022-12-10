@@ -1,9 +1,26 @@
+#### RUNNING THE APP
+
+```
+ionic build
+ionic cap add android
+```
+
+open Android Studio
+
+open project -> select android folder
+
+debug the project -> using wifi-pairing
+
+#### TUTORIAL
+
 https://www.youtube.com/watch?v=U7RvTTF9dnk&t=191s
 
 https://devdactic.com/ionic-firebase-auth-upload
 
 
-[authentication](https://user-images.githubusercontent.com/32627919/206871936-63dd7249-6592-4fb8-b7cc-558e2a527efe.png)
+#### Firebase Configurations
+
+![authentication](https://user-images.githubusercontent.com/32627919/206871936-63dd7249-6592-4fb8-b7cc-558e2a527efe.png)
 
 ![firestorage](https://user-images.githubusercontent.com/32627919/206871938-ef82bb93-ea63-4a98-9517-67d90188c3ee.png)
 
